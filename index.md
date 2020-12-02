@@ -9,6 +9,8 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 * B.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 2000 <br>
 
 # Areas of Interest
+![image](https://avatars3.githubusercontent.com/u/44170453?s=400&u=4077b3451dd31e2ad14d44036bdb1b4dfc6e218f&v=4)
+
 
 
 
