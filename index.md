@@ -89,6 +89,13 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 
 * Paternina, C., Montoya, J., Fabregas, A, Simulation-optimization Using a Reinforcement Learning Approach". Winter Simulation Conference. vol.7, no.10, pp.1376-1383, Dec. 2008.
 
+## Experience
+* Assistant Professor, Department of Engineering Systems, Florida Institute of Technology (Florida Tech), Melbourne, FL, 2013-present.
+* Research Associate, Center for Urban Transportation Research (CUTR), University of South Florida (USF), Tampa, FL, 2009-2013.
+* Graduate Research Assistant, Center for Urban Transportation Research (CUTR), University of South Florida (USF), Tampa, FL, 2004-2009.
+* Engineering Consultant, Soluciones Integrales en Manufactura, SINMAF (Manufacturing and logistics consulting firm). Barranquilla-Colombia, 2000-2003.
+* Assistant Professor, Industrial Engineerign Department, Corporación Universitaria de la Costa (CUC), 2001-2003.
+* Quality Engineer, Philips Lightning Barranquilla-Colombia, 1999-2001
 
 
 
