@@ -1,7 +1,7 @@
 <img src="AF_pic.jpg" alt="afabregas" width="200"/> <br>
 
 # Aldo Fabregas, Ph.D.
-> Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Department at Florida Institute of Technology. Dr. Fabregas holds a Ph. D. in Industrial and Systems Engineering from the University of South Florida. He has over 10 years of experience on diverse transportation related projects including traffic simulation, ITS technology selection, and transportation planning decision support systems. Dr. Fabregas has accumulated substantial manufacturing systems and quality engineering knowledge through consulting and prior work experience. His areas of interests involve manufacturing analytics, intelligent transportation systems, and energy systems. His research involves system design assisted with model-based systems engineering (MBSE), and discrete manufacturing systems intelligence. Dr. Fabregas is an Object Management Group –Certified Systems Modeling Professional (OCSMP). He also takes part in the reviewing committee of the IEEE Systems Engineering Conference. He is an active member of the INCOSE Space Coast Professional Chapter serving as vice president for year 2020.
+Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Department at Florida Institute of Technology. Dr. Fabregas holds a Ph. D. in Industrial and Systems Engineering from the University of South Florida. He has over 10 years of experience on diverse transportation related projects including traffic simulation, ITS technology selection, and transportation planning decision support systems. Dr. Fabregas has accumulated substantial manufacturing systems and quality engineering knowledge through consulting and prior work experience. His areas of interests involve manufacturing analytics, intelligent transportation systems, and energy systems. His research involves system design assisted with model-based systems engineering (MBSE), and discrete manufacturing systems intelligence. Dr. Fabregas is an Object Management Group –Certified Systems Modeling Professional (OCSMP). He also takes part in the reviewing committee of the IEEE Systems Engineering Conference. He is an active member of the INCOSE Space Coast Professional Chapter serving as vice president for year 2020.
 
 # Education
 * Ph.D. Industrial and Management Systems Engineering, University of South Florida, 2012<br>
@@ -11,24 +11,26 @@
 * B.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 2000 <br>
 
 # Areas of Interest
-
+In order of preference:
+Manufacturing
+Transportation & Supply Chain
+Energy
 
 
 
 # Software
-* MBSE (SysML/UML): MagicDraw is my goto application. The regular uses such as create executable models,congurations/variants, behavior, ICDs , requirements.etc. On the extras I  have developed plug-ins in Java for MD , integrated with Matlab and Modelica. I am familiar with writing validation scripts using OCL. Develop domain specific extensions via profiles.  Currently into Functional Mockup Units and Co-SImulation.
+* MBSE (SysML/UML): MagicDraw is my goto application. The regular uses such as create executable models,congurations/variants, behavior, ICDs , requirements.etc. On the extras I  have developed plug-ins in Java for MD , integrations with Matlab and Modelica. I am familiar with writing validation scripts using OCL. Developed domain specific extensions/profiles.  Currently into Functional Mockup Units and Co-Simulation.
 * Other MBSE: I am familiar with Rhapsody , Doors Next Gen and Capella. Currently getting into open MBEE
-* Software: Python, Java , C# (in that order of preference). I also fluent in VBA for Excel, MS Access and MS Visio
+* Coding/Scripting: Python, Java , C# (in that order of preference). I also fluent in VBA for Excel, MS Access and MS Visio
 
 * Optimization: My go to solver is Gurobi via API with Python for MIPs. I have used IBM CPLEX in the past and other solvers such as OpenSolver. In mathematical programming languages I am familiar with GAMS, AMPL and OPL.
+* Data Analysis: Python , R , Matlab , Minitab
+* Simulation: I am very familiar with Arena. Also developed some simulations in SimPy (Python) and Simio. In some cases I have developed my own simulators which have worked more reliably than general-purpose discrete event simulators.
+* Machine Learning: Keras and Matlab. 
 
-* Simulation: I am very familiar with Arena. Also developed some simulations in SimPy (Python) and Simio. In some cases I have developed my own simulators which have worked more reliably than general purpose discrete event simulators.
+* GIS: ArcGIS, and python
 
-* Machine Learning: Python tools and Matlab. 
-
-* GIS
-
-* Traffic Simulation
+* Traffic Simulation: My goto  program is PTV Vissim. I have created customized vehicle controllers via dll and manipulated the input files (XML structure) to create adn run thousands of simulations.
 
 | Command | Description |
 | --- | --- |
