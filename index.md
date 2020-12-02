@@ -12,9 +12,12 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 
 # Areas of Interest
 In order of preference:
-Manufacturing
-Transportation & Supply Chain
-Energy
+
+**Manufacturing**: Mostly discrete manufacturing, especially assembly processes. I am Familiar with aerospace assembly issues. One my areas of interest is enterprise connectivity for manufacturing analytics. Companies have different enterprise systems for inventory, personnel, quality and manufacturing exeution. Linking data to feed online simulation/optimization models to support decision making is alwayse needed. Process design, optimization and control of complex assebly netowrk with thousands of operations with different degrees of automation. Manufacturign issues such as ramping up production of new products, in process control of 
+
+**Transportation & Supply Chain**: MNetwork design , locations, inventories along a supply chain. Design of processes and communications to 
+
+**Energy**: Activity based energy consumption budgets, renewable energy configuration , high-level desgin . Simulation  
 
 
 
@@ -26,11 +29,12 @@ Energy
 * **Optimization**: My go to solver is Gurobi via API with Python for MIPs. I have used IBM CPLEX in the past and other solvers such as OpenSolver. In mathematical programming languages I am familiar with GAMS, AMPL and OPL.
 * **Data Analysis**: Python , R , Matlab , Minitab
 * **Simulation**: I am very familiar with Arena. Also developed some simulations in SimPy (Python) and Simio. In some cases I have developed my own simulators which have worked more reliably than general-purpose discrete event simulators.
-* Machine Learning: Keras and Matlab. 
 
-* **GIS**: ArcGIS, and python
+* **Machine Learning**: Matlab for prototyping. Matlab NN tools been out for a number of years. Currently in Keras and Tensor Flow for RL. For metaheuristics , I usullay develop customized algorithms based on the knowledge of the problem (e.g. GRASP or any nature-inspired metaheuristic)
 
-* **Traffic Simulation**: My goto  program is PTV Vissim. I have created customized vehicle controllers via dll and manipulated the input files (XML structure) to create adn run thousands of simulations.
+* **GIS**: ArcGIS, and python.
+
+* **Traffic Simulation**: My go to program is PTV Vissim. I have created customized vehicle controllers for connected truck simulation via dll. Also manipulated the input files (XML structure) to create and run thousands of simulations.
 
 | Command | Description |
 | --- | --- |
