@@ -4,16 +4,17 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 # Education
 * Ph.D. Industrial and Management Systems Engineering, University of South Florida, 2012<br>
   Dissertation title: Location and Capacity Modeling of Network Multimodal Interchanges<br>
-•	M.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 2003 <br>
+* M.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 2003 <br>
   Thesis title: Simulation-Based Optimization of Discrete Models Using Reinforcement Learning <br>
-•	B.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 2000 <br>
-
+* B.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 2000 <br>
 
 # Areas of Interest
 
 
 
 # Software
+* MBSE (SysML/UML): MagicDraw is my goto application. I have developed plug-ins in Java for MD , integrated with Matlab and Modelica.
+
 
 ###
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
