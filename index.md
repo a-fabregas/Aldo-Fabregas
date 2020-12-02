@@ -13,12 +13,13 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 
 
 # Software
-* MBSE (SysML/UML): MagicDraw is my goto application. I have developed plug-ins in Java for MD , integrated with Matlab and Modelica.
+* MBSE (SysML/UML): MagicDraw is my goto application. The regular uses such as create executable models,congurations/variants, behavior, ICDs , requirements.etc. On the extras I  have developed plug-ins in Java for MD , integrated with Matlab and Modelica. I am familiar with wirting validation scripts using OCL. Develop domain specific extensions via stereotypes.  Currently into Functional Mockup Units and Co-SImulation.
 
-| Topic  | Software |Description  | Other |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 ###
