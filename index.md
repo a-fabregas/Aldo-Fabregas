@@ -63,7 +63,27 @@ Energy
 
 * Lin P., Fabregas A., Chen H. Development of Resource Allocation Strategies for Operating and Maintaining Traffic Signal Systems. Challenges and Advances in Sustainable Transportation Systems, 73-80, ISBN (print) 978-0-7844-1336-4, American Society of Civil Engineers (ASCE), May 2014. 
 
-*Lin P., Fabregas, A., Kourtellis A., Bryant E., Lall  S. Planning and Design for Prevention of Incorrect Turns onto Highway-Rail Grade Crossings. Challenges and Advances in Sustainable Transportation Systems, 358-365, ISBN (print) 978-0-7844-1336-4, American Society of Civil Engineers (ASCE), May 2014. 
+* Lin P., Fabregas, A., Kourtellis A., Bryant E., Lall  S. Planning and Design for Prevention of Incorrect Turns onto Highway-Rail Grade Crossings. Challenges and Advances in Sustainable Transportation Systems, 358-365, ISBN (print) 978-0-7844-1336-4, American Society of Civil Engineers (ASCE), May 2014. 
+
+* Fabregas A., Lin P.S., Koneru V., Bochner B., Seggerman K. and Pinjari A. Verification of Trip Generation and Trip Internalization Estimation Procedures for Mixed-Use Developments. Proceeding of the 94th Transportation Research Board Annual Meeting, Washington D.C., January 2015.
+
+* Johnson M., Fabregas A., Wang, Z., Katkoori, S. Embedded System Design of an Advanced Illumination Measurement system for Highways.  IEEE 8th Annual Systems Conference (SysCon).  March 2014, Ottawa, Canada.
+
+* Seggerman K., Williams K., Lin P., and Fabregas A. Nelson A., Nicholas J. Alternative Funding for Mobility in Florida. 53rd Annual Transportation Forum, Compendium of Papers, 2012.
+
+* Fabregas A., Lin P., Gonzalez E., Zhou H., and Datz A. Safety and Operational Assessment of Yield-to-Bus LED Warning Signs on Transit Buses. Transportation Research Record, Washington D.C., January 2011.
+
+* Wightman P., Fabregas A., and Labrador M. An Optimal Solution to the MCDS Problem for Topology Construction in Wireless Sensor Networks. Proceedings of the IEEE Latin America Conference on Communications, September 2010.
+
+* Seggerman K., Nelson A., Nicholas J., Williams K., Lin P., and Fabregas A. Defining a Transportation Mobility Fee for Florida. Proceedings of the 89th Transportation Research Board Annual Meeting, Washington D.C., January 2010.
+
+* Seggerman K., Nelson A., Nicholas J., Williams K., Lin P., and Fabregas A. An Impact Fee Methodology Emphasizing VMT. Proceedings of the 89th Transportation Research Board Annual Meeting, Washington D.C., Jan 2010.
+
+* Seggerman K., Nelson A., Nicholas J., Williams K., Lin P., and Fabregas A. A Hybrid Transportation Mobility Fee. Proceedings of the 94th Transportation Research Board Annual Meeting, Washington D.C., Jan 2010.
+
+* Paternina, C., Montoya, J., Fabregas, A, Simulation-optimization Using a Reinforcement Learning Approach". Winter Simulation Conference. vol.7, no.10, pp.1376-1383, Dec. 2008.
+
+
 
 ###
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
