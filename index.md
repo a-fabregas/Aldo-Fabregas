@@ -19,7 +19,7 @@ Energy
 
 
 # Software
-* MBSE (SysML/UML): MagicDraw is my goto application. The regular uses such as create executable models,congurations/variants, behavior, ICDs , requirements.etc. On the extras I  have developed plug-ins in Java for MD , integrations with Matlab and Modelica. I am familiar with writing validation scripts using OCL. Developed domain specific extensions/profiles.  Currently into Functional Mockup Units and Co-Simulation.
+* *MBSE (SysML/UML)*: MagicDraw is my goto application. The regular uses such as create executable models,congurations/variants, behavior, ICDs , requirements.etc. On the extras I  have developed plug-ins in Java for MD , integrations with Matlab and Modelica. I am familiar with writing validation scripts using OCL. Developed domain specific extensions/profiles.  Currently into Functional Mockup Units and Co-Simulation.
 * Other MBSE: I am familiar with Rhapsody , Doors Next Gen and Capella. Currently getting into open MBEE
 * Coding/Scripting: Python, Java , C# (in that order of preference). I also fluent in VBA for Excel, MS Access and MS Visio
 
