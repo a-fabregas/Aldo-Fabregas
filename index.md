@@ -3,7 +3,7 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 
 
 ### Education
-•	Ph.D. Industrial and Management Systems Engineering, University of South Florida, 2012
+•	Ph.D. Industrial and Management Systems Engineering, University of South Florida, 2012<br>
   Dissertation title: Location and Capacity Modeling of Network Multimodal Interchanges
 •	M.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 200. Thesis title: Simulation-Based Optimization of Discrete Models Using Reinforcement Learning
 •	B.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 2000
