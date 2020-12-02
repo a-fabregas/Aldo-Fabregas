@@ -15,6 +15,11 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 # Software
 * MBSE (SysML/UML): MagicDraw is my goto application. I have developed plug-ins in Java for MD , integrated with Matlab and Modelica.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 ###
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
