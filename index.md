@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Aldo Fabregas, Ph.D.
 
 You can use the [editor on GitHub](https://github.com/a-fabregas/Aldo-Fabregas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
