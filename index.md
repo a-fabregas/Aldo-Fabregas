@@ -11,27 +11,25 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 * B.S. Industrial Engineering, Universidad del Norte, Barranquilla-Colombia, 2000 <br>
 
 # Areas of Interest
-In order of preference:
-
-**Manufacturing**: Mostly discrete manufacturing, especially assembly processes. I am Familiar with aerospace assembly issues. One my areas of interest is enterprise connectivity for manufacturing analytics. Companies have different enterprise systems for inventory, personnel, quality and manufacturing exeution. Linking data to feed online simulation/optimization models to support decision making is alwayse needed. Process design, optimization and control of complex assebly netowrk with thousands of operations with different degrees of automation. Manufacturign issues such as ramping up production of new products, in process control of 
-
-**Transportation & Supply Chain**: Network design problems including facility locations, capacity, and  inventories along a supply chain. Design of processes and interfaces among actors in the supply chain. Traffic capacity analysis for roads ad intersections. Intelligent Transportation Systems applications. Technology selection and evaluation. 
-
-**Energy**: Activity-based energy consumption budgets, renewable energy configuration , high-level desgin of microgrids. Electric vehicles 
 
 
+**Manufacturing**: Mostly discrete manufacturing, especially assembly processes. I am Familiar with aerospace assembly process challenges. One my areas of interest is enterprise connectivity for manufacturing analytics. Companies have different enterprise systems for inventory, personnel, quality, and manufacturing execution. Linking data (ETL) to feed online simulation/optimization models to support decision making is always needed. Process design, optimization and control for a complex assembly network with thousands of operations with different degrees of automation. Manufacturign issues such as ramping up production of new products, facility layout, line balancing. Laverage the use of MBSE to transition form product design to process desing.
+
+**Transportation & Supply Chain**: Network design problems including facility locations, capacity, and  inventories along a supply chain. Design of processes and interfaces among actors in the supply chain. Traffic capacity analysis for roads ad intersections. Intelligent Transportation Systems applications. Technology selection and evaluation for tracking and detection. MBSE applications in this topic whenever possible. 
+
+**Energy**: High-level desgin of systems with renewable resources. Electric vehicles operations. Currently exploring the potential uses of heavy-electric vehicles. Building energy models using MBSE.
 
 # Software
 * **MBSE (SysML/UML)**: MagicDraw is my goto application. The regular uses such as create executable models,congurations/variants, behavior, ICDs , requirements.etc. On the extras I  have developed plug-ins in Java for MD , integrations with Matlab and Modelica. I am familiar with writing validation scripts using OCL. Developed domain specific extensions/profiles.  Currently into Functional Mockup Units and Co-Simulation.
 * **Other MBSE**: I am familiar with Rhapsody , Doors Next Gen and Capella. Currently getting into open MBEE
 * **Coding/Scripting**: Python, Java , C# (in that order of preference). I also fluent in VBA for Excel, MS Access and MS Visio
-* **Software Engineering**: Familiar with development processes to generate and maintain optimization, simulation, quality systems and other anlytics tools for industrial applications via services. Familiar with continous delivery using. Use of version control software (Git) and containers in Docker. Familiar with several databases and I enjoy writing my own SQL queries.
+* **Software Engineering**: Familiar with development processes to generate and maintain optimization, simulation, quality systems and other analytics tools for industrial applications via services. Familiar with continous delivery using. Use of version control software (Git) and containers in Docker. Familiar with several databases and I enjoy writing my own SQL queries.
 
 * **Optimization**: My go to solver is Gurobi via API with Python for MIPs. I have used IBM CPLEX in the past and other solvers such as OpenSolver. In mathematical programming languages I am familiar with GAMS, AMPL and OPL.
 * **Data Analysis**: Python , R , Matlab , Minitab
 * **Simulation**: I am very familiar with Arena. Also developed some simulations in SimPy (Python) and Simio. In some cases I have developed my own simulators which have worked more reliably than general-purpose discrete event simulators.
 
-* **Machine Learning**: Matlab for prototyping. Matlab NN tools been out for a number of years. Currently in Keras and Tensor Flow for RL. For metaheuristics , I usullay develop customized algorithms based on the knowledge of the problem (e.g. GRASP or any nature-inspired metaheuristic).
+* **Machine Learning**: Matlab for prototyping. Matlab NN tools have been out for a number of years. Currently, in Keras and Tensor Flow for RL. For metaheuristics , I usually develop customized algorithms based on the knowledge of the problem (e.g. GRASP or any nature-inspired metaheuristic).
 
 * **GIS**: ArcGIS, and python.
 
@@ -91,28 +89,6 @@ In order of preference:
 
 * Paternina, C., Montoya, J., Fabregas, A, Simulation-optimization Using a Reinforcement Learning Approach". Winter Simulation Conference. vol.7, no.10, pp.1376-1383, Dec. 2008.
 
-
-
-###
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
 
