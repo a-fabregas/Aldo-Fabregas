@@ -31,20 +31,23 @@ In order of preference:
 * **Data Analysis**: Python , R , Matlab , Minitab
 * **Simulation**: I am very familiar with Arena. Also developed some simulations in SimPy (Python) and Simio. In some cases I have developed my own simulators which have worked more reliably than general-purpose discrete event simulators.
 
-* **Machine Learning**: Matlab for prototyping. Matlab NN tools been out for a number of years. Currently in Keras and Tensor Flow for RL. For metaheuristics , I usullay develop customized algorithms based on the knowledge of the problem (e.g. GRASP or any nature-inspired metaheuristic)
+* **Machine Learning**: Matlab for prototyping. Matlab NN tools been out for a number of years. Currently in Keras and Tensor Flow for RL. For metaheuristics , I usullay develop customized algorithms based on the knowledge of the problem (e.g. GRASP or any nature-inspired metaheuristic).
 
 * **GIS**: ArcGIS, and python.
 
 * **Traffic Simulation**: My go to program is PTV Vissim. I have created customized vehicle controllers for connected truck simulation via dll. Also manipulated the input files (XML structure) to create and run thousands of simulations.
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
 
 
-## Publications
+# Publications
 
+## Books and Book Chapters:
+* Nguyen T., Dixon J., A., Fabregas A,Zappala P. Systems Engineering in Construction. Perspectives on Systems Engineering from Florida's Space Coast. CTS Press ISBN-13:978-1-951750-04-6. 
+
+* Simulación de Procesos Productivos con ARENA (Title in English: Simulation of production processes with ARENA). Fabregas A., Paternina C., Wadnipar R., and Mancilla A. Ediciones Uninorte, 2003, ISBN: 958-8133-24-6.
+
+
+## Selected Peer-Reviewed Publications:
  
 * Crawford P., Fabregas A., Mesa R. , Calatayud A., A Parametric Evaluation of IoT Applications to Freight Transportation Using Model-Based Systems Engineering. Transportation Research Board,Washington D.C., January 2021.
 
