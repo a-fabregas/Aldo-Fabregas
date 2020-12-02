@@ -24,17 +24,12 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 * **Other MBSE**: I am familiar with Rhapsody , Doors Next Gen and Capella. Currently getting into open MBEE
 * **Coding/Scripting**: Python, Java , C# (in that order of preference). I also fluent in VBA for Excel, MS Access and MS Visio
 * **Software Engineering**: Familiar with development processes to generate and maintain optimization, simulation, quality systems and other analytics tools for industrial applications via services. Familiar with continous delivery using. Use of version control software (Git) and containers in Docker. Familiar with several databases and I enjoy writing my own SQL queries.
-
 * **Optimization**: My go to solver is Gurobi via API with Python for MIPs. I have used IBM CPLEX in the past and other solvers such as OpenSolver. In mathematical programming languages I am familiar with GAMS, AMPL and OPL.
 * **Data Analysis**: Python , R , Matlab , Minitab
 * **Simulation**: I am very familiar with Arena. Also developed some simulations in SimPy (Python) and Simio. In some cases I have developed my own simulators which have worked more reliably than general-purpose discrete event simulators.
-
 * **Machine Learning**: Matlab for prototyping. Matlab NN tools have been out for a number of years. Currently, in Keras and Tensor Flow for RL. For metaheuristics , I usually develop customized algorithms based on the knowledge of the problem (e.g. GRASP or any nature-inspired metaheuristic).
-
 * **GIS**: ArcGIS, and python.
-
 * **Traffic Simulation**: My go to program is PTV Vissim. I have created customized vehicle controllers for connected truck simulation via dll. Also manipulated the input files (XML structure) to create and run thousands of simulations.
-
 
 
 # Publications
