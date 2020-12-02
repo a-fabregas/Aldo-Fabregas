@@ -35,7 +35,7 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 # Publications
 
 ## Books and Book Chapters:
-* Nguyen T., Dixon J., A., Fabregas A,Zappala P. Systems Engineering in Construction. Perspectives on Systems Engineering from Florida's Space Coast. CTS Press ISBN-13:978-1-951750-04-6. 
+* Nguyen T., Dixon J., A., Fabregas A,Zappala P. Systems Engineering in Construction. Perspectives on Systems Engineering from Florida's Space Coast. CTS Press,2020. ISBN-13:978-1-951750-04-6. 
 
 * Simulación de Procesos Productivos con ARENA (Title in English: Simulation of production processes with ARENA). Fabregas A., Paternina C., Wadnipar R., and Mancilla A. Ediciones Uninorte, 2003, ISBN: 958-8133-24-6.
 
