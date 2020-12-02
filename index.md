@@ -15,9 +15,9 @@ In order of preference:
 
 **Manufacturing**: Mostly discrete manufacturing, especially assembly processes. I am Familiar with aerospace assembly issues. One my areas of interest is enterprise connectivity for manufacturing analytics. Companies have different enterprise systems for inventory, personnel, quality and manufacturing exeution. Linking data to feed online simulation/optimization models to support decision making is alwayse needed. Process design, optimization and control of complex assebly netowrk with thousands of operations with different degrees of automation. Manufacturign issues such as ramping up production of new products, in process control of 
 
-**Transportation & Supply Chain**: MNetwork design , locations, inventories along a supply chain. Design of processes and communications to 
+**Transportation & Supply Chain**: Network design problems including facility locations, capacity, and  inventories along a supply chain. Design of processes and interfaces among actors in the supply chain. Traffic capacity analysis for roads ad intersections. Intelligent Transportation Systems applications. Technology selection and evaluation. 
 
-**Energy**: Activity based energy consumption budgets, renewable energy configuration , high-level desgin . Simulation  
+**Energy**: Activity-based energy consumption budgets, renewable energy configuration , high-level desgin of microgrids. Electric vehicles 
 
 
 
@@ -110,12 +110,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a-fabregas/Aldo-Fabregas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
