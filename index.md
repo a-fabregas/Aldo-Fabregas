@@ -40,6 +40,11 @@ Energy
 
 ## Publications
 
+
+* Crawford P., Fabregas A., Mesa R. , Calatayud A.,A Parametric Evaluation of IoT Applications to Freight Transportation Using Model-Based Systems Engineering. Transportation Research Board,Washington D.C., January 2021.
+
+* Ortega, L., Otero, L.D., Otero, C.E., and Fabregas, A., “Visibility Forecasting with Deep Learning”, IEEE Systems Engineering Conference, August 2020
+
 * Goncalves T., Fabregas A., Nguyen T. Application-Driven Traffic Sensor System Acceptance Tests for Intelligent Transportation Systems. IEEE Systems Engineering Conference 2016.
 
 * Talebi S., Fabregas A., Nguyen T. High-Level Multi-Objective Model for Micro-grid Design. IEEE Systems Engineering Conference 2016.
