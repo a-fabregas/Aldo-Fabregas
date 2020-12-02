@@ -42,16 +42,27 @@ Energy
 
  
 * Crawford P., Fabregas A., Mesa R. , Calatayud A., A Parametric Evaluation of IoT Applications to Freight Transportation Using Model-Based Systems Engineering. Transportation Research Board,Washington D.C., January 2021.
+
 * Ortega, L., Otero, L.D., Otero, C.E., and Fabregas, A., Visibility Forecasting with Deep Learning, IEEE Systems Engineering Conference, August 2020
+
 * Ginigeme, O., Fabregas,Nguyen, T.  A. Model based systems engineering high-level design of a sustainable electric vehicle charging and swapping station using discrete event simulation. In Systems Conference (SysCon), 2018 Annual IEEE International (pp. 1-6). IEEE.
+
 * Goncalves T., Fabregas A., Nguyen T. Application-Driven Traffic Sensor System Acceptance Tests for Intelligent Transportation Systems. IEEE Systems Engineering Conference 2016.
+
 * Talebi S., Fabregas A., Nguyen T. High-Level Multi-Objective Model for Micro-grid Design. IEEE Systems Engineering Conference 2016.
+
 * Modi D, Fabregas A. Otero L. Requirements and Decision Model for a Taxiway Route Support System. IEEE Systems Engineering Conference 2015. 
+
 * Jerue M., Otero L. and Fabregas A. Systems Analysis Framework to Optimization Utilization of Electric Vehicles at Military Facilities. IEEE Systems Engineering Conference 2015.
+
 * Fabregas A., Lin P.S., Koneru V., Bochner B., Seggerman K. and Pinjari A. Verification of Trip Generation and Trip Internalization Estimation Procedures for Mixed-Use Developments. Transportation Research Board, Washington D.C., January 2015.
+
 * Chen, H., Fabregas A., Lin, P. Landscaping Design at Highway Medians and Roadway Safety at Unsignalized Intersections. Transportation Research Board, Washington D.C., January 2015.
+
 * Nguyen, T., Fabregas, A., Miller, N., Cremer, I.  A Framework for the Development of Technical Requirements for Renewable Energy Systems at a Small-Scale Airport Facility. Proceedings of the American Society of Mechanical Engineers (ASME) 2015 Power and Energy Conversion Conference 2015.
+
 * Lin P., Fabregas A., Chen H. Development of Resource Allocation Strategies for Operating and Maintaining Traffic Signal Systems. Challenges and Advances in Sustainable Transportation Systems, 73-80, ISBN (print) 978-0-7844-1336-4, American Society of Civil Engineers (ASCE), May 2014. 
+
 *Lin P., Fabregas, A., Kourtellis A., Bryant E., Lall  S. Planning and Design for Prevention of Incorrect Turns onto Highway-Rail Grade Crossings. Challenges and Advances in Sustainable Transportation Systems, 358-365, ISBN (print) 978-0-7844-1336-4, American Society of Civil Engineers (ASCE), May 2014. 
 
 ###
