@@ -1,9 +1,4 @@
 ## Aldo Fabregas, Ph.D.
-
-You can use the [editor on GitHub](https://github.com/a-fabregas/Aldo-Fabregas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Department at Florida Institute of Technology. Dr. Fabregas holds a Ph. D. in Industrial and Systems Engineering from the University of South Florida. He has over 10 years of experience on diverse transportation related projects including traffic simulation, ITS technology selection, and transportation planning decision support systems. Dr. Fabregas has accumulated substantial manufacturing systems and quality engineering knowledge through consulting and prior work experience. His areas of interests involve manufacturing analytics, intelligent transportation systems, and energy systems. His research involves system design assisted with model-based systems engineering (MBSE), and discrete manufacturing systems intelligence. Dr. Fabregas is an Object Management Group –Certified Systems Modeling Professional (OCSMP). He also takes part in the reviewing committee of the IEEE Systems Engineering Conference. He is an active member of the INCOSE Space Coast Professional Chapter serving as vice president for year 2020.
 
 
