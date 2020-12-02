@@ -13,8 +13,19 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 
 
 # Software
-* MBSE (SysML/UML): MagicDraw is my goto application. The regular uses such as create executable models,congurations/variants, behavior, ICDs , requirements.etc. On the extras I  have developed plug-ins in Java for MD , integrated with Matlab and Modelica. I am familiar with wirting validation scripts using OCL. Develop domain specific extensions via stereotypes.  Currently into Functional Mockup Units and Co-SImulation.
+* MBSE (SysML/UML): MagicDraw is my goto application. The regular uses such as create executable models,congurations/variants, behavior, ICDs , requirements.etc. On the extras I  have developed plug-ins in Java for MD , integrated with Matlab and Modelica. I am familiar with writing validation scripts using OCL. Develop domain specific extensions via profiles.  Currently into Functional Mockup Units and Co-SImulation.
+* Other MBSE: I am familiar with Rhapsody , Doors Next Gen and Capella. Currently getting into open MBEE
+* Software: Python, Java , C# (in that order of preference). I also fluent in VBA for Excel, MS Access and MS Visio
 
+* Optimization: My go to solver is Gurobi via API with Python for MIPs. I have used IBM CPLEX in the past and other solvers such as OpenSolver. In mathematical programming languages I am familiar with GAMS, AMPL and OPL.
+
+* Simulation: I am very familiar with Arena. Also developed some simulations in SimPy (Python) and Simio. In some cases I have developed my own simulators which have worked more reliably than general purpose discrete event simulators.
+
+* Machine Learning: Python tools and Matlab. 
+
+* GIS
+
+* Traffic Simulation
 
 | Command | Description |
 | --- | --- |
