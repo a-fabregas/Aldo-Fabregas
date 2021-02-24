@@ -1,7 +1,7 @@
 <img src="AF_pic.jpg" alt="afabregas" width="200"/> <br>
 
 # Aldo Fabregas, Ph.D.
-Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Department at Florida Institute of Technology. Dr. Fabregas holds a Ph. D. in Industrial and Systems Engineering from the University of South Florida. He has over 10 years of experience on diverse transportation related projects including traffic simulation, ITS technology selection, and transportation planning decision support systems. Dr. Fabregas has accumulated substantial manufacturing systems and quality engineering knowledge through consulting and prior work experience. His areas of interests involve manufacturing analytics, intelligent transportation systems, and energy systems. His research involves system design assisted with model-based systems engineering (MBSE), and discrete manufacturing systems intelligence. Dr. Fabregas is an Object Management Group –Certified Systems Modeling Professional (OCSMP). He also takes part in the reviewing committee of the IEEE Systems Engineering Conference. He is an active member of the INCOSE Space Coast Professional Chapter serving as vice president for year 2020.
+Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Department at Florida Institute of Technology. Dr. Fabregas holds a Ph. D. in Industrial and Systems Engineering from the University of South Florida. He has over 10 years of experience on diverse transportation related projects including traffic simulation, ITS technology selection, and transportation planning decision support systems. Dr. Fabregas has accumulated substantial manufacturing systems and quality engineering knowledge through consulting and prior work experience. His areas of interests involve manufacturing analytics, intelligent transportation systems, and energy systems. His research involves system design assisted with model-based systems engineering (MBSE), and discrete manufacturing systems intelligence. Dr. Fabregas is an Object Management Group –Certified Systems Modeling Professional (OCSMP). He also takes part in the reviewing committee of the IEEE Systems Engineering Conference. He is an active member of the INCOSE Space Coast Professional Chapter serving as vice president for year 2020. Dr. Fabregas is also member of the Object Management Group (OMG) and partitipcates in their technical meetings.
 
 # Education
 * Ph.D. Industrial and Management Systems Engineering, University of South Florida, 2012<br>
@@ -92,5 +92,8 @@ Dr. Aldo Fabregas is an Assistant Professor in the Engineering Systems Departmen
 * Assistant Professor, Industrial Engineerign Department, Corporación Universitaria de la Costa (CUC), 2001-2003.
 * Quality Engineer, Philips Lightning Barranquilla-Colombia, 1999-2001
 
-
-
+## Certifications
+* OMG-Certified Systems Modeling Professional (OCSMP) - Model User
+* OMG-Certified Systems Modeling Professional (OCSMP) - Model Builder Intermediate
+* OMG-Certified Systems Modeling Professional (OCSMP) - Model Builder Fundamental
+* OMG-Certified Systems Modeling Professional (OCSMP) - Model Builder Advanced
